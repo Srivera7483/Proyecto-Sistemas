@@ -6,3 +6,9 @@
 *.PWI
 *.DBK
 *.~*
+
+# Archivos temporales de Proteus
+Project Backups/
+Backup Of *.pdsprj
+*.pdsprj.*
+*.workspace
