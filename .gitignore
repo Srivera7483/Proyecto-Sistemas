@@ -1,0 +1,8 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Archivos temporales y de backup de Proteus
+*.PWI
+*.DBK
+*.~*
